@@ -18,7 +18,7 @@ export default function Home() {
         />
 
         <p className="text-lg sm:text-xl text-gray-600 dark:text-gray-300 max-w-xl">
-          Bienvenidos a nuestro sitio oficial. Pronto encontrarás toda la información sobre Santa Eduvijes, eventos, noticias y más.
+          Bienvenidos a nuestro sitio oficial. Pronto encontrarás toda la información sobre Edificios Santa Eduvijes, eventos, noticias y más.
         </p>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
