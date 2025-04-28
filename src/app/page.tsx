@@ -10,7 +10,7 @@ export default function Home() {
 
         <Image
           className="dark:invert"
-          src="/next.svg" // Puedes cambiar esto por tu propio logo si quieres
+          src="/next.svg" // Puedes cambiar esto por tu propio logo si quieres 
           alt="Santa Eduvijes Logo"
           width={180}
           height={38}
